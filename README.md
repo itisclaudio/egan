@@ -1,9 +1,6 @@
 # Readme
 
-Django project that can parse the table on the Methodologies page of ejproxy.com and save the results into an SQLite database. The code should be executable via a command line.
-
-
-Please include instructions on how to use it. Once you’re done, please either push your code into a repository (any will work) and share the link OR zip it up and attach it with your response. Also, please try not to spend more than 1 hour on this challenge.
+Django project that parses the table on the Methodologies page of ejproxy.com and saves the results into an SQLite database. The is executable via a command line.
 
 ## Instructions
 
