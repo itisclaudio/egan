@@ -17,5 +17,3 @@ for t in range(0, len(td_elements), 2):
 		dateadded = datetime.strptime(td_elements[t+1].text_content().strip(), "%B %d, %Y").date()
 		))
 Methodologies.objects.bulk_create(bulk_list)
-#bulk_msj = Methodologies.objects.bulk_create(bulk_list)
-#print(bulk_msj)
